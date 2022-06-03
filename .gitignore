@@ -1,0 +1,5 @@
+# Documentation
+Documentation/api/
+Documentation/index.*
+_site/
+Assets/**/obj*
